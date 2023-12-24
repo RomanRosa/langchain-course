@@ -13,3 +13,4 @@ aiohttp
 PyYAML
 numpy
 wikipedia
+openpyxl
